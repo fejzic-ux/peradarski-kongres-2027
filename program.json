@@ -1,0 +1,151 @@
+{
+  "status": "RADNI NACRT — nije konačni program",
+  "days": [
+    {
+      "date": "12. maj · Srijeda",
+      "items": [
+        [
+          "16:00–16:30",
+          "Okupljanje učesnika i piće dobrodošlice",
+          "Prijem"
+        ],
+        [
+          "16:30–17:00",
+          "Konferencija za štampu",
+          "Mediji"
+        ],
+        [
+          "17:00–18:00",
+          "Svečano otvaranje",
+          "Ceremonija"
+        ],
+        [
+          "18:00–18:15",
+          "Dodjela zahvalnica",
+          "Ceremonija"
+        ],
+        [
+          "19:00–22:00",
+          "Svečana večera",
+          "Društveni program"
+        ]
+      ]
+    },
+    {
+      "date": "13. maj · Četvrtak",
+      "items": [
+        [
+          "08:00–09:00",
+          "Registracija učesnika",
+          "Prijem"
+        ],
+        [
+          "09:00–09:10",
+          "Pozdravni govor organizatora",
+          "Glavna sala"
+        ],
+        [
+          "09:10–10:15",
+          "1. plenarno zasjedanje",
+          "Glavna sala"
+        ],
+        [
+          "10:15–10:30",
+          "Sponzorirano predavanje generalnog pokrovitelja",
+          "Glavna sala"
+        ],
+        [
+          "10:30–11:30",
+          "Pauza i posjeta štandovima sponzora",
+          "Pauza"
+        ],
+        [
+          "11:30–13:00",
+          "Centralna panel-sesija: Poultry 2032",
+          "Glavna sala"
+        ],
+        [
+          "13:00–13:30",
+          "Sponzorirana predavanja",
+          "Glavna sala"
+        ],
+        [
+          "13:30–14:30",
+          "Ručak i networking",
+          "Pauza"
+        ],
+        [
+          "14:30–16:00",
+          "2. plenarno zasjedanje",
+          "Glavna sala"
+        ],
+        [
+          "14:30–16:00",
+          "Primarna peradarska proizvodnja (transfer znanja)",
+          "Sala 2"
+        ],
+        [
+          "16:00–16:30",
+          "Pauza i posjeta štandovima sponzora",
+          "Pauza"
+        ],
+        [
+          "16:30–18:00",
+          "4. plenarno zasjedanje",
+          "Glavna sala"
+        ],
+        [
+          "16:30–18:00",
+          "Primarna peradarska proizvodnja (transfer znanja)",
+          "Sala 2"
+        ],
+        [
+          "20:00",
+          "Svečana večera",
+          "Društveni program"
+        ]
+      ]
+    },
+    {
+      "date": "14. maj · Petak",
+      "items": [
+        [
+          "09:30–11:00",
+          "6. plenarno zasjedanje",
+          "Glavna sala"
+        ],
+        [
+          "11:00–11:30",
+          "Pauza i posjeta štandovima sponzora",
+          "Pauza"
+        ],
+        [
+          "11:30–13:00",
+          "7. plenarno zasjedanje",
+          "Glavna sala"
+        ],
+        [
+          "13:00–13:30",
+          "Zaključci i zatvaranje",
+          "Glavna sala"
+        ],
+        [
+          "13:30",
+          "Kraj kongresa",
+          "Informacije"
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "Nove tehnologije, automatizacija, digitalizacija i umjetna inteligencija",
+    "Energetska efikasnost, mikroklima i klimatski pametna proizvodnja",
+    "Zdravlje, biosigurnost i dobrobit životinja",
+    "Ishrana, hranidba i tehnologija proizvodnje",
+    "Kontrola, kvalitet, standardizacija i sigurnost hrane",
+    "Ekologija, cirkularna ekonomija i animalni otpad",
+    "Ekonomika proizvodnje, marketing, trgovina i tržišni trendovi",
+    "Genetika, selekcija, reprodukcija i biotehnologije",
+    "Tehničke prezentacije, inovacije i radovi iz prakse"
+  ]
+}

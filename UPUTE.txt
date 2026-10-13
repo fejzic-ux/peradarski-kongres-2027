@@ -1,0 +1,4 @@
+VERZIJA 3 — PROGRAM + DEMONSTRACIJA REGISTRACIJE
+Otvorite index.html i odaberite Registracija.
+Registracija ne šalje niti pohranjuje podatke.
+Za stvarne prijave potrebno je odabrati bazu/servis, definisati kotizacije, bankovne instrukcije i politiku privatnosti, te provesti testiranje i kontrolu pristupa.
